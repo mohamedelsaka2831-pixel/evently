@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76804139522",
+    "project_id": "evently-elsaka",
+    "storage_bucket": "evently-elsaka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76804139522:android:c66fd426f93535d31d151b",
+        "android_client_info": {
+          "package_name": "com.example.evently"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl21GTcB6LaJMqCwcUxezNFhH5J28W7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
